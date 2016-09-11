@@ -6,6 +6,6 @@
 </head>
 <body>
 <h1>welcome to <strong>Game-site</strong>!
-<p>the place where games rule!</p>
+
 </body>
 </html>
